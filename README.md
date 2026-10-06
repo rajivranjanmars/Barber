@@ -10,4 +10,4 @@ Install with `npm ci`. The configured commands are `npm run dev`, `npm run build
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
